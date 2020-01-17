@@ -1,2 +1,1 @@
-open .
-pwd
+pwd > /tmp/warm.txt
